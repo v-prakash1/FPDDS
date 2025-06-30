@@ -16,7 +16,7 @@ This repository implements **FPDDS**, a scalable and parallel auto-calibration f
         │   ├── param_save/           # Backup of each iteration's parameter files
         │   ├── Linux/                # Compiled Ostrich binary (e.g., OstrichMPI)
         │   ├── Source/               # Source code or templates for LIS/Ostrich if applicable
-        │   └── ILDAS_Auto_cal.sh     # Bash script to automate model + DA execution
+        │   └── ILDAS_Auto_cal.sh     # Bash script to automate model + Calibration execution
         │
         ├── lis_input_files/          # LIS forcing and initialization NetCDF input files
         │
